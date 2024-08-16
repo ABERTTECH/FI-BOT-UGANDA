@@ -81,7 +81,8 @@ router.get('/', async (req, res) => {
 𓄂 *_https://wa.me/256704376077_*
 
 > MADE ON EARTH BY DON TECH🇺🇬
-> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 DON 𝐓𝐄𝐂𝐇`
+> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 DON 𝐓𝐄𝐂𝐇
+Regards from KABOI 👋`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
